@@ -1,4 +1,4 @@
-importsys
+import sys
 sys.path.append('usr/local/lib/python3.9/dist-packages')
 import cv2
 import numpy as np
